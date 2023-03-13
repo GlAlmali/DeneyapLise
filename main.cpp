@@ -5,6 +5,7 @@ int main()
     {
         cout<<"Merhaba Dunya";
         cout<<"Hello World";
+        cout<<"Hello";
 
         return 0;
     }
