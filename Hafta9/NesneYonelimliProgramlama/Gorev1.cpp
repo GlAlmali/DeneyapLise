@@ -10,6 +10,7 @@ public:
     int yil;
     int fiyat;
 };
+
 int main() {
     // Ilk Araba nesnesini olusturun
     Araba araba1;
