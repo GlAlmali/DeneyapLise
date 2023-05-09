@@ -5,7 +5,8 @@ public:
     char model[30];
     int fiyat;
     bool aramaDurum;
-    Ceptelefonu(int x_fiyat){ fiyat = x_fiyat;
+    Ceptelefonu(int x_fiyat){
+        fiyat = x_fiyat;
     }
     ~Ceptelefonu(){
         cout << "Nesne yok edildi." << endl;
